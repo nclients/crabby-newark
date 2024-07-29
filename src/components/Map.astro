@@ -1,0 +1,38 @@
+---
+import PrimaryButton from "./ui/PrimaryButton.astro";
+import SecondaryButton from "./ui/SecondaryButton.astro";
+const { content, section } = Astro.props;
+---
+
+<section
+  class="relative"
+  id={`${section?.id || ""}`}
+  style="scroll-margin-top: 150px;"
+>
+  <div class="absolute top-4 right-4">
+    <div class="flex flex-col sm:flex-row gap-4">
+      <PrimaryButton
+        content={content}
+        text={section.getDirectionBtnInsteadText
+          ? section.getDirectionBtnInsteadText
+          : `Get Direction`}
+        href={`${section?.url}`}
+      />
+      <SecondaryButton
+        content={content}
+        text={section.telInsteadText
+          ? section.telInsteadText
+          : `tel: ${content.tel}`}
+        href={`tel:${content?.tel}`}
+      />
+    </div>
+  </div>
+  <iframe
+    src={`${section?.iframeUrl}`}
+    class="w-full"
+    aria-hidden="true"
+    allowfullscreen=""
+    loading="lazy"
+    height="500"
+    referrerpolicy="no-referrer-when-downgrade"></iframe>
+</section>
