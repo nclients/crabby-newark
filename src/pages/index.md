@@ -17,10 +17,9 @@ banner:
   text: 
     - boldText: "🥳 Special Offer"
     - text: "15 PC of Head On Shrimp + 1 Free Soda + Choose a Free Item:"
-    - smText: "Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries
-              (10 oz cup) only $13.50. Available Monday to Friday, 12 PM to 3
-              PM."
-    - text: ""
+    - smText: "(Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries
+              (10 oz cup))."
+    - text: " Only $13.50. Available Monday to Friday, 12 PM to 3 PM."
   # add more text...
   textColor: "#ffffff"
   bgColor: "#FF2D2F"
@@ -53,10 +52,12 @@ header:
   otherBtnHref: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34"
 
 sections:
-# Hero
-  - type: "hero" 
+
+
+# hero
+  - type: "feature" 
     id: ""
-    height: "90" # Conditionally use only when sectionType is imgBg
+    height: "100" # Conditionally use only when sectionType is imgBg
     sectionType: "video" # video | imgWithText | imgBg
     bgVideoType: "vimeo" # youtube | vimeo | gjw
     bgVideoId: "963713403"
@@ -138,10 +139,25 @@ sections:
     #   # - text: "We serve Imperial Soup dishes plus other Asian dishes. Feel free to message us about inquiries! We'll get back to you as soon as we can!"
     # descriptionColor: "#000000"
 
+# textBlock - only title
+  - type: "textBlock" 
+    id: "about-us"
+    bgImg: ""
+    bgImgAlt: ""
+    bgColor: ""
+    bgOpacity: "" # 0~1
+    title: 
+      - "About Us"
+    titleColor: "#000000"
+    description: 
+      - ""
+    descriptionColor: ""
+
 # feature - 2
   - type: "feature" 
-    id: "about-us"
+    id: ""
     height: "100" # Conditionally use only when sectionType is imgBg
+    noMarginTop: "all" # mobile | tablet | desktop ｜ all
     sectionType: "imgWithText" # video | imgWithText | imgBg
     bgVideoType: "" # youtube | vimeo | gjw
     bgVideoId: ""
@@ -266,8 +282,10 @@ footer:
   bgColor: "#000000"
   bgOpacity: "0.65" # 0~1
   openingHours: 
-    - "Monday to Friday: Lunch 11:30 AM to 3:00 PM, Dinner 5:00 PM to 9:00 PM"
-    - "Saturday and Sunday: 12:00 PM to 9:00 PM"
+    - "Monday to Friday:"
+    - "Lunch 11:30 AM to 3:00 PM, Dinner 5:00 PM to 9:00 PM"
+    - "Saturday and Sunday:"
+    - "12:00 PM to 9:00 PM"
   menu:
     - { text: "Home", link: "/" }
     - { text: "Gallery", link: "#gallery" }

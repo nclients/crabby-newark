@@ -66,7 +66,7 @@ sections:
       - "Crabby Crabby Newark"
     titleColor: "#ffffff"
     description: 
-      - "在Crabby Crabby餐廳，品味美食，發現笑容。。"
+      - "在Crabby Crabby Newark餐廳，品味美食，發現笑容。"
     descriptionColor: "#ffffff"
 
     addOrderOnlineBtn: false
@@ -94,7 +94,7 @@ sections:
     title: 
       - "傳統與風味的完美結合"
     description: 
-      - "Crabby Crabby餐廳坐落在加州紐瓦克市中心，是一個將傳統與美味完美融合的地方。從精心設計的裝飾到每一道精緻的菜餚，我們的每個角落都散發著濃厚的正宗風情，讓您在每一口中都能體驗到地道的美味。" 
+      - "Crabby Crabby Newark餐廳坐落在加州紐瓦克市中心，是一個將傳統與美味完美融合的地方。從精心設計的裝飾到每一道精緻的菜餚，我們的每個角落都散發著濃厚的正宗風情，讓您在每一口中都能體驗到地道的美味。" 
     videoType: "vimeo" # vimeo | gjw | youtube
     videoId: 
       - "963713403"
@@ -121,25 +121,25 @@ sections:
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
 
 
-# # textBlock 
-#   - type: "textBlock" 
-#     id: "about-us"
-#     bgImg: ""
-#     bgImgAlt: ""
-#     bgColor: "#000"
-#     bgOpacity: "" # 0~1
-    # title: 
-    #   - "A Corner of Tradition and Flavor"
-    # titleColor: "#000000"
-    # description: 
-    #   - "From the heart of Newark, CA, Crabby Crabby Restaurant is a corner where tradition meets flavor. Every corner of our restaurant is infused with authenticity, from the décor to every bite we serve."
-    #   # - text: "We serve Imperial Soup dishes plus other Asian dishes. Feel free to message us about inquiries! We'll get back to you as soon as we can!"
-    # descriptionColor: "#000000"
+# textBlock - only title
+  - type: "textBlock" 
+    id: "about-us"
+    bgImg: ""
+    bgImgAlt: ""
+    bgColor: ""
+    bgOpacity: "" # 0~1
+    title: 
+      - "關於我們"
+    titleColor: "#000000"
+    description: 
+      - ""
+    descriptionColor: ""
 
 # feature - 2
   - type: "feature" 
-    id: "about-us"
+    id: ""
     height: "100" # Conditionally use only when sectionType is imgBg
+    noMarginTop: "all" # mobile | tablet | desktop ｜ all
     sectionType: "imgWithText" # video | imgWithText | imgBg
     bgVideoType: "" # youtube | vimeo | gjw
     bgVideoId: ""
@@ -265,8 +265,10 @@ footer:
   bgColor: "#000000"
   bgOpacity: "0.65" # 0~1
   openingHours: 
-    - "週一到週五: 午餐 11:30 AM ~ 3:00 PM，晚餐 5:00 PM ~ 9:00 PM"
-    - "週六和週日: 12:00 PM ~ 9:00 PM"
+    - "週一到週五:"
+    - "午餐 11:30 AM ~ 3:00 PM，晚餐 5:00 PM ~ 9:00 PM"
+    - "週六和週日:"
+    - "12:00 PM ~ 9:00 PM"
   openingHoursInsteadText: "營業時間"
   menu:
     - { text: "首頁", link: "/zh-cn" }
@@ -288,8 +290,8 @@ footer:
   paymentMethod: "cash,visa" #alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
   seo:
-    metaDescription: "Crabby Crabby 海鮮餐厅位于加州纽瓦克市中心，营业时间为周一到周五：午餐11:30 AM至3:00 PM，晚餐5:00 PM至9:00 PM；周六和周日：12:00 PM至9:00 PM。我们致力于为您提供地道美味的用餐体验。"
-    keywords: "Crabby Crabby 纽瓦克, 海鲜餐厅 纽瓦克, 纽瓦克最好的海鲜, 加州纽瓦克新鲜海鲜, 纽瓦克家庭餐饮, 纽瓦克特别场合餐厅, 加州纽瓦克餐厅, 湾区海鲜餐饮, Crabby Crabby 菜单"
+    metaDescription: "Crabby Crabby Newark 海鮮餐厅位于加州纽瓦克市中心，营业时间为周一到周五：午餐11:30 AM至3:00 PM，晚餐5:00 PM至9:00 PM；周六和周日：12:00 PM至9:00 PM。我们致力于为您提供地道美味的用餐体验。"
+    keywords: "Crabby Crabby Newark纽瓦克, 海鲜餐厅 纽瓦克, 纽瓦克最好的海鲜, 加州纽瓦克新鲜海鲜, 纽瓦克家庭餐饮, 纽瓦克特别场合餐厅, 加州纽瓦克餐厅, 湾区海鲜餐饮, Crabby Crabby Newark菜单"
     img: "/gallery/Seafood_Whole_Dungeness_Crab.webp"
     thisPageUrl: "https://crabbynewark.com/zh-cn"
     locale: "en_US" # zh_TW | zh_CN

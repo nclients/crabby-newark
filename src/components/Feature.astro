@@ -8,7 +8,19 @@ const { content, section } = Astro.props;
 ---
 
 <section
-  class={cn(section?.type !== "hero" ? "pt-16 sm:pt-48 md:pt-64" : "")}
+  class={cn(
+    section?.type !== "hero"
+      ? section.noMarginTop === "mobile"
+        ? "pt-0 sm:pt-48 md:pt-64"
+        : section.noMarginTop === "tablet"
+          ? "pt-16 sm:pt-0 md:pt-64"
+          : section.noMarginTop === "desktop"
+            ? "pt-16 sm:pt-48 md:pt-0"
+            : section.noMarginTop === "all"
+              ? "pt-0"
+              : ""
+      : ""
+  )}
   style={section?.type !== "hero"
     ? `background-color: ${section?.bgColor}; opacity: ${section?.bgOpacity}; scroll-margin-top: 150px;`
     : ""}
@@ -172,7 +184,7 @@ const { content, section } = Astro.props;
     }
     <div
       class={cn(
-        "m-auto max-w-2xl md:max-w-7xl flex flex-col justify-center items-center py-8",
+        "m-auto max-w-2xl md:max-w-7xl flex flex-col justify-center items-center pt-8",
         `${section?.sectionType === "video" ? "sm:hidden" : ""}`
       )}
     >
