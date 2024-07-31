@@ -296,7 +296,7 @@ footer:
     - { text: "中文", link: "/zh-cn" }
 
   FB: true
-  FBLink: "https://www.facebook.com/profile.php?id=61555671732114&mibextid=ZbWKwL"
+  FBLink: "https://www.facebook.com/CrabbyCrabbyNewarkMX/"
   IG: true
   IGLink: "https://www.instagram.com/crabbycrabby3ca?igsh=a3VqdW81b25hNDR1"
   X: false
