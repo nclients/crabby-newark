@@ -96,10 +96,10 @@ sections:
       - "傳統與風味的完美結合"
     description: 
       - "Crabby Crabby Newark餐廳坐落在加州紐瓦克市中心，是一個將傳統與美味完美融合的地方。從精心設計的裝飾到每一道精緻的菜餚，我們的每個角落都散發著濃厚的正宗風情，讓您在每一口中都能體驗到地道的美味。" 
-    videoType: "vimeo" # vimeo | gjw | youtube
+    videoType: "gjw" # vimeo | gjw | youtube
     videoId: 
-      - "963713403"
-      - "917321697"
+      - "1gq2biogr2i6gHN3AizUEgler1ug1c"
+      - "1go20iea10u7ATj8Hyv9zPYCF19j1c"
     isOnlyDisplayOnMobile: false
 
 # Gallery  

@@ -98,10 +98,10 @@ sections:
       - "A Corner of Tradition and Flavor"
     description: 
       - "From the heart of Newark, CA, Crabby Crabby Restaurant is a corner where tradition meets flavor. Every corner of our restaurant is infused with authenticity, from the décor to every bite we serve." 
-    videoType: "vimeo" # vimeo | gjw | youtube
+    videoType: "gjw" # vimeo | gjw | youtube
     videoId: 
-      - "963713403"
-      - "917321697"
+      - "1gq2biogr2i6gHN3AizUEgler1ug1c"
+      - "1go20iea10u7ATj8Hyv9zPYCF19j1c"
     isOnlyDisplayOnMobile: false
 
 # Gallery  
