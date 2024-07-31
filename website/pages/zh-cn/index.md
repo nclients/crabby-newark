@@ -18,7 +18,7 @@ banner:
     - boldText: "🥳優惠活動"
     - text: "15只帶頭蝦 + 1瓶免費汽水 + 任選一件："
     - smText: "蒸飯（10盎司杯）/ 蒜蓉麵條（10盎司杯）/ 卡津薯條（10盎司杯）。"
-    - text: "售價$13.50。僅限週一至週五，下午12點至3點提供。"
+    - text: "售價$13.50。僅限週一至週五，11:30 AM to 3 PM 提供。"
   # add more text...
   textColor: "#ffffff"
   bgColor: "#FF2D2F"

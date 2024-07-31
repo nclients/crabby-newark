@@ -19,7 +19,7 @@ banner:
     - text: "15 PC of Head On Shrimp + 1 Free Soda + Choose a Free Item:"
     - smText: "(Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries
               (10 oz cup))."
-    - text: " Only $13.50. Available Monday to Friday, 12 PM to 3 PM."
+    - text: " Only $13.50. Available Monday to Friday, 11:30 AM to 3 PM."
   # add more text...
   textColor: "#ffffff"
   bgColor: "#FF2D2F"
