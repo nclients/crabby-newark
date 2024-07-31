@@ -53,11 +53,12 @@ header:
 sections:
 # Hero
   - type: "hero" 
+    noMarginTop: true
     id: ""
     height: "90" # Conditionally use only when sectionType is imgBg
     sectionType: "video" # video | imgWithText | imgBg
     bgVideoType: "vimeo" # youtube | vimeo | gjw
-    bgVideoId: "963713403"
+    bgVideoId: "917321697"
     bgImg: "crabby_crabby_newark_hero_background_image.webp"
     bgImgAlt: "crabby crabby newark"
     bgColor: ""
@@ -139,7 +140,7 @@ sections:
   - type: "feature" 
     id: ""
     height: "100" # Conditionally use only when sectionType is imgBg
-    noMarginTop: "all" # mobile | tablet | desktop ｜ all
+    noMarginTop: true
     sectionType: "imgWithText" # video | imgWithText | imgBg
     bgVideoType: "" # youtube | vimeo | gjw
     bgVideoId: ""
@@ -236,6 +237,7 @@ sections:
   
 # map  
   - type: "map"
+    noMarginTop: true
     id: "contact-us"
     mode: "fullWidth" # full-width | ...
     url: "https://maps.app.goo.gl/gHferfbrQsJXDHNX9"
@@ -260,6 +262,7 @@ sections:
 
 footer:
   mode: 1 # 1
+  noMarginTop: true
   bgImg: "dedicated_to_gastronomic_excellence.webp"
   bgImgAlt: "Crabby Crabby Newark - Best Food Today"
   bgColor: "#000000"
@@ -294,11 +297,11 @@ footer:
     keywords: "Crabby Crabby Newark纽瓦克, 海鲜餐厅 纽瓦克, 纽瓦克最好的海鲜, 加州纽瓦克新鲜海鲜, 纽瓦克家庭餐饮, 纽瓦克特别场合餐厅, 加州纽瓦克餐厅, 湾区海鲜餐饮, Crabby Crabby Newark菜单"
     img: "/gallery/Seafood_Whole_Dungeness_Crab.webp"
     thisPageUrl: "https://crabbynewark.com/zh-cn"
-    locale: "en_US" # zh_TW | zh_CN
+    locale: "zh_CN" # zh_TW | zh_CN
 
 
 
 
 # Do not change the content below
-layout: ../../layouts/main.astro
+layout: "ssg-theme-astro/layouts/main.astro"
 ---
