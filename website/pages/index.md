@@ -85,7 +85,7 @@ sections:
     bannerImg: "crabby_crabby_newark_dish.webp"
     imgAlt: "Crabby Crabby Newark "
     imgPosition: "imgLeft" # imgLeft | imgRight
-    bannerMarginTopMobile: 96
+    bannerMarginTopMobile: 20
     imgRounded: "lg" # sm | md | lg | xl | 2xl | 3xl | full
    
     bottomRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
