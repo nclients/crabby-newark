@@ -269,7 +269,8 @@ sections:
       - "🥳 Special Offers"
     titleColor: "#FF2D2F"
     titleSize: 24
-    description: ""
+    description: 
+      - ""
     descriptionColor: ""
     descriptionSize: 16
     imgName: "offer.png"
