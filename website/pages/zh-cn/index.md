@@ -83,7 +83,7 @@ sections:
     bannerImg: "crabby_crabby_newark_dish.webp"
     imgAlt: "Crabby Crabby Newark "
     imgPosition: "imgLeft" # imgLeft | imgRight
-    bannerMarginTopMobile: 20
+    bannerMarginTopMobile: 12
     imgRounded: "lg" # sm | md | lg | xl | 2xl | 3xl | full
    
     bottomRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
@@ -231,8 +231,7 @@ sections:
       - "新特性! 在線訂餐"
     titleColor: "#ffffff"
     description: 
-      - "現在支援線上訂單自取。只要告訴我們您想要的菜餚，我們會​​盡快準備好。所有訂單都由我們手動確認。"
-      - "您可以即時查看您的食物何時準備好。訂單狀態會即時更新，您可以在螢幕上查看您的食物何時可以取走。"
+      - "現在支援線上訂單自取。只要告訴我們您想要的菜餚，我們會​​盡快準備好。所有訂單都由我們手動確認。您可以即時查看您的食物何時準備好。訂單狀態會即時更新，您可以在螢幕上查看您的食物何時可以取走。"
     descriptionColor: "#ffffff"
   
 # map  
@@ -269,8 +268,8 @@ footer:
   bgOpacity: "0.65" # 0~1
   openingHours: 
     - "週一到週五:"
-    - "午餐 11:30 AM ~ 3:00 PM，晚餐 5:00 PM ~ 9:00 PM"
-    - "週六和週日:"
+    - "11:30 AM ~ 3:00 PM，5:00 PM ~ 9:00 PM"
+    - "週六、日:"
     - "12:00 PM ~ 9:00 PM"
   openingHoursInsteadText: "營業時間"
   menu:

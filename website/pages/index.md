@@ -85,7 +85,7 @@ sections:
     bannerImg: "crabby_crabby_newark_dish.webp"
     imgAlt: "Crabby Crabby Newark "
     imgPosition: "imgLeft" # imgLeft | imgRight
-    bannerMarginTopMobile: 20
+    bannerMarginTopMobile: 12
     imgRounded: "lg" # sm | md | lg | xl | 2xl | 3xl | full
    
     bottomRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
@@ -262,20 +262,20 @@ sections:
     getDirectionBtnInsteadText: ""
     telInsteadText: ""
  
-  - type: "modal"
-    bgColor: "#333"
-    bgOpacity: "0.1" # 0~1
-    title: 
-      - "🥳 Special Offers"
-    titleColor: "#FF2D2F"
-    titleSize: 24
-    description: 
-      - ""
-    descriptionColor: ""
-    descriptionSize: 16
-    imgName: "offer.png"
-    imgAlt: "🥳 Special Offer 15 PC of Head On Shrimp + 1 Free Soda + Choose a Free Item: Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries (10 oz cup) only $13.50. Available Monday to Friday, 12 PM to 3 PM."
-    buttonText: "Order Now!"
+  # - type: "modal"
+  #   bgColor: "#333"
+  #   bgOpacity: "0.1" # 0~1
+  #   title: 
+  #     - "🥳 Special Offers"
+  #   titleColor: "#FF2D2F"
+  #   titleSize: 24
+  #   description: 
+  #     - ""
+  #   descriptionColor: ""
+  #   descriptionSize: 16
+  #   imgName: "offer.png"
+  #   imgAlt: "🥳 Special Offer 15 PC of Head On Shrimp + 1 Free Soda + Choose a Free Item: Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries (10 oz cup) only $13.50. Available Monday to Friday, 12 PM to 3 PM."
+  #   buttonText: "Order Now!"
 
 footer:
   mode: 1 # 1
