@@ -243,7 +243,7 @@ sections:
     iframeUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3163.2010723950107!2d-122.05385532436703!3d37.55032622505781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fbf25977c4139%3A0x65a0766c424ad6dc!2sCrabby%20Crabby%20Newark!5e0!3m2!1sen!2sjp!4v1721832800644!5m2!1sen!2sjp"
     addTelBtn: true
     getDirectionBtnInsteadText: "帶我去餐廳"
-    telInsteadText: "電話： (510) 790-8988"
+    telInsteadText: "電話： 510-790-8988"
  
   # - type: "modal"
   #   bgColor: "#333"
