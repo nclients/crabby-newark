@@ -308,12 +308,12 @@ footer:
   yelpLink: ""
   paymentMethod: "cash,visa" #alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
-  seo:
-    metaDescription: "Crabby Crabby Newark is a premier seafood restaurant located at 6225 Jarvis Ave, Newark, CA 94560. Enjoy fresh and delicious seafood dishes in a vibrant and friendly atmosphere."
-    keywords: "Crabby Crabby Newark, seafood restaurant Newark, best seafood Newark CA, fresh seafood Newark, family dining Newark, special occasion restaurant Newark, Newark CA restaurants, seafood dining Bay Area, Crabby Crabby menu"
-    img: "/gallery/Seafood_Whole_Dungeness_Crab.webp"
-    thisPageUrl: "https://crabbynewark.com/"
-    locale: "en_US" # zh_TW | zh_CN
+seo:
+  metaDescription: "Crabby Crabby Newark is a premier seafood restaurant located at 6225 Jarvis Ave, Newark, CA 94560. Enjoy fresh and delicious seafood dishes in a vibrant and friendly atmosphere."
+  keywords: "Crabby Crabby Newark, seafood restaurant Newark, best seafood Newark CA, fresh seafood Newark, family dining Newark, special occasion restaurant Newark, Newark CA restaurants, seafood dining Bay Area, Crabby Crabby menu"
+  img: "/gallery/Seafood_Whole_Dungeness_Crab.webp"
+  thisPageUrl: "https://crabbynewark.com/"
+  locale: "en_US" # zh_TW | zh_CN
 
 
 
