@@ -58,7 +58,7 @@ sections:
     height: "90" # Conditionally use only when sectionType is imgBg
     sectionType: "video" # video | imgWithText | imgBg
     bgVideoType: "gjw" # youtube | vimeo | gjw
-    bgVideoId: "1go20iea10u7ATj8Hyv9zPYCF19j1c"
+    bgVideoId: "1gvlm41386a7H97kaPJg4V9Gh18o1c"
     bgImg: "crabby_crabby_newark_hero_background_image.webp"
     bgImgAlt: "crabby crabby newark"
     bgColor: ""
