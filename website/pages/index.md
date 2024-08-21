@@ -1,4 +1,6 @@
 ---
+# Do not change the content below
+layout: "ssg-theme-astro/layouts/main.astro"
 tag: "GTM-MJ592KWF"
 title: "CRABBY CRABBY NEWARK - Best Food Today"
 favicon: "favicon.ico"
@@ -309,15 +311,169 @@ footer:
   paymentMethod: "cash,visa" #alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
 seo:
+  metaTitle: "" 
+
   metaDescription: "Crabby Crabby Newark is a premier seafood restaurant located at 6225 Jarvis Ave, Newark, CA 94560. Enjoy fresh and delicious seafood dishes in a vibrant and friendly atmosphere."
-  keywords: "Crabby Crabby Newark, seafood restaurant Newark, best seafood Newark CA, fresh seafood Newark, family dining Newark, special occasion restaurant Newark, Newark CA restaurants, seafood dining Bay Area, Crabby Crabby menu"
-  img: "/gallery/Seafood_Whole_Dungeness_Crab.webp"
-  thisPageUrl: "https://crabbynewark.com/"
-  locale: "en_US" # zh_TW | zh_CN
+
+  keywords: "" # steak, restaurant, fine dining, New York
+
+  img: "https://crabbynewark.com/gallery/Seafood_Whole_Dungeness_Crab.webp" # https://example.com/photos/1x1/photo.jpg
+
+  thisPageUrl: "https://crabbynewark.com/" # https://example.com/
+
+  locale: "en_US" # zh_TW | zh_CN | ja_JP
+
+  canonicalHref: "https://crabbynewark.com/" # https://example.com/
+
+  name: "Crabby Crabby Newark" # restaurant name
+
+  images:
+    - "https://crabbynewark.com/gallery/Seafood_Whole_Dungeness_Crab.webp"  # https://example.com/photos/1x1/photo.jpg
+    - "https://crabbynewark.com/gallery/Tacos_2.webp"  # https://example.com/photos/1x1/photo.jpg
+    - "https://crabbynewark.com/gallery/Seafood_Whole_Dungeness_Crab_2.webp"  # https://example.com/photos/1x1/photo.jpg
+    - 
+  address:
+    streetAddress: "6225 Jarvis Ave" # 148 W 51st St
+    addressLocality: "Newark" # New York
+    addressRegion: "CA" # NY
+    postalCode: "94560" # 10019
+    addressCountry: "US" # US
 
 
+  review:
+    ratingValue: "4.5" #4.5
+    bestRating: "5" # 5
+    authorName: "Google Review" # Google Review
+    reviewType: "Organization" # Organization. Google Review ->"Organization", 
+
+  # review:
+  #   ratingValue: "4.5"
+  #   bestRating: "5"
+  #   authorName: "Yelp"
+  #   reviewType: "Organization" # Yelp 是一个组织，因此设置为 Organization
+
+  # review:
+  #   ratingValue: "4.9"
+  #   bestRating: "5"
+  #   authorName: "John Doe"
+  #   reviewType: "Person"
 
 
-# Do not change the content below
-layout: "ssg-theme-astro/layouts/main.astro"
+  geo:
+    latitude: 37.55052611620485 # 40.761293
+    longitude: -122.0512589463209 # -73.982294
+  url: "https://crabbynewark.com/" # https://www.example.com
+ 
+  telephone: "+1-510-588-1218" # +1212345678
+
+  servesCuisine: [
+    "Seafood",
+    "Cajun Cuisine",
+    "American Cuisine"
+]
+  priceRange: "$$" # $,$$,$$$,$$$$. $->Inexpensive, $$->Moderate, $$$->Expensive, $$$$->Luxury
+  openingHours:
+  - dayOfWeek:
+      - "Monday"
+      - "Tuesday"
+      - "Wednesday"
+      - "Thursday"
+      - "Friday"
+    opens: "11:30"
+    closes: "15:00"
+  - dayOfWeek:
+      - "Monday"
+      - "Tuesday"
+      - "Wednesday"
+      - "Thursday"
+      - "Friday"
+    opens: "17:00"
+    closes: "21:00"
+  - dayOfWeek:
+      - "Saturday"
+      - "Sunday"
+    opens: "12:00"
+    closes: "21:00"
+   
+  menu: "https://crabbynewark.com/" # https://example.com/
+  # acceptsReservations: true # true or false
+  hasMenu: "https://crabbynewark.com/" # https://crabbynewark.com/full-menu
+  starRating:
+    ratingValue: "4.5" # 4.5
+    bestRating: "5" # 5
+    author: "Google Review" # Michelin Guide, Google Review
+    authorType: "organization" #person,organization
+  currenciesAccepted: "USD" # USD
+  paymentAccepted: "Cash, Visa"
+
+  hasMenuSection:
+    - name: "SEAFOOD" # Appetizers
+      image: "https://crabbynewark.com/gallery/Seafood_Whole_Lobster.webp"
+      description: "From the heart of Newark, CA, Crabby Crabby Restaurant is a corner where tradition meets flavor."
+      hasMenuItem:
+        - name: "Half Pound Snow Crab"
+          description: "Succulent half pound of snow crab, expertly prepared for a delightful dining experience."
+          price: "20.50"
+          image: "https://crabbynewark.com/gallery/Seafood_Half_Pound_Snow_Crab.webp"
+        - name: "Whole Lobster"
+          description: "Savor the taste of our whole lobster, cooked to perfection and bursting with flavor."
+          price: "52.99"
+          image: "https://crabbynewark.com/gallery/Seafood_Whole_Lobster.webp"
+    - name: "Combo" # Main Courses
+      hasMenuItem:
+        - name: "Combo Deal #1"
+          description: "1lb Head On Shrimp, 1lb Crawfish Or Clams, 1lb Green Mussels. Pick 2 Free Items:1 Corn Or 2 Potatoes Or 4 Pc of Sausages."
+          price: "45.00"
+          image: ""
+        - name: "Combo Deal #2"
+          description: "1lb King Crab Legs, 1lb Head On Shrimp, 1lb Crawfish Or Clams. Pick 3 Free Items: 1 Corn Or 2 Potatoes Or 4 Pc of Sausages."
+          price: "80.00"
+          image: ""
+    - name: "Lunch Specials" # Appetizers
+      hasMenuItem:
+        - name: "Lunch Special #1"
+          description: "0.5 lb Head On Shrimp, 0.5 lb Black Mussels"
+          price: "12.99"
+          image: ""
+        - name: "Lunch Special #2"
+          description: "0.5 lb Head On Shrimp, 0.5 lb Green Mussels"
+          price: "12.99"
+          image: ""
+    - name: "Fried" # Main Courses
+      # description: "Each Selection Made To Order,Hand-Tossed In Our Secret Batter."
+      image: "https://crabbynewark.com/gallery/Fried_Calamari_W_Fries.webp"
+      hasMenuItem:
+        - name: "Fried Calamari W Fries"
+          description: "Crispy calamari served with golden fries, perfect for sharing or indulging on your own."
+          price: "12.99"
+          image: "https://crabbynewark.com/gallery/Fried_Calamari_W_Fries.webp"
+        # - name: "S1 水煮鱼片 Sichuan Poached Spicy Fish Filet"
+        #   description: "Spicy poached fish fillet in Sichuan style."
+        #   price: "12.99"
+        #   image: ""
+        
+  offers:
+    - name: "15 PC of Head On Shrimp Special"
+      description: "Enjoy 15 PC of Head On Shrimp + 1 Free Soda + Choose a Free Item: (Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries (10 oz cup)). Only $13.50. Available Monday to Friday, 11:30 AM to 3 PM."
+      priceCurrency: "USD"
+      price: "13.5"
+      image: "https://crabbynewark.com/offer.png"
+    # - name: "10% off cash discount on family meal takeout"
+    #   description: "Get 10% off when you pay with cash for family meal takeout."
+    #   priceCurrency: "USD"
+    #   price: "varies"
+    #   image: ""
+    # - name: "Family Set: Any 3 dishes for $40"
+    #   description: "Choose any 3 dishes for just $40, includes free rice."
+    #   priceCurrency: "USD"
+    #   price: "40"
+    #   image: ""
+    # - name: "Free rice with lunch"
+    #   description: "Receive free rice with any lunch order."
+    #   priceCurrency: "USD"
+    #   price: "0"
+    #   image: ""
+      
+---
+<!-- hello world -->
 ---
