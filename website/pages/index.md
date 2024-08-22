@@ -17,11 +17,11 @@ tel: "510-588-1218"
 
 banner:
   text: 
-    - boldText: "🥳 Special Offer"
-    - text: "15 PC of Head On Shrimp + 1 Free Soda + Choose a Free Item:"
-    - smText: "(Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries
-              (10 oz cup))."
-    - text: " Only $13.50. Available Monday to Friday, 11:30 AM to 3 PM."
+    - boldText: "🥳 Lunch Specials"
+    - text: "0.5 lb Head On Shrimp, 0.5 lb Black Mussels, 1 corn 2 potatoes 4 pc sausages. Only $12.99. Available Monday to Friday, 11:30 AM to 3 PM."
+    # - smText: "(Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries
+    #           (10 oz cup))."
+    # - text: " Only $13.50. Available Monday to Friday, 11:30 AM to 3 PM."
   # add more text...
   textColor: "#ffffff"
   bgColor: "#FF2D2F"
@@ -453,11 +453,11 @@ seo:
         #   image: ""
         
   offers:
-    - name: "15 PC of Head On Shrimp Special"
-      description: "Enjoy 15 PC of Head On Shrimp + 1 Free Soda + Choose a Free Item: (Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries (10 oz cup)). Only $13.50. Available Monday to Friday, 11:30 AM to 3 PM."
+    - name: "Lunch Specials"
+      description: "0.5 lb Head On Shrimp, 0.5 lb Black Mussels, 1 corn 2 potatoes 4 pc sausages. Only $12.99. Available Monday to Friday, 11:30 AM to 3 PM."
       priceCurrency: "USD"
-      price: "13.5"
-      image: "https://crabbynewark.com/offer.png"
+      price: "12.99"
+      # image: "https://crabbynewark.com/offer.png"
     # - name: "10% off cash discount on family meal takeout"
     #   description: "Get 10% off when you pay with cash for family meal takeout."
     #   priceCurrency: "USD"
@@ -475,5 +475,5 @@ seo:
     #   image: ""
       
 ---
-<!-- hello world -->
+<!-- Powered by Best Food Today -->
 ---
