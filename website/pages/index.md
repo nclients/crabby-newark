@@ -18,7 +18,7 @@ tel: "510-588-1218"
 banner:
   text: 
     - boldText: "🥳 Lunch Specials"
-    - text: "0.5 lb Head On Shrimp, 0.5 lb Black Mussels, 1 corn 2 potatoes 4 pc sausages. Only $12.99. Available Monday to Friday, 11:30 AM to 3 PM."
+    - text: "0.5 lb Head On Shrimp, 0.5 lb Green Mussels, 1 corn 2 potatoes 4 pc sausages. Only $12.99. Available Monday to Friday, 11:30 AM to 3 PM."
     # - smText: "(Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries
     #           (10 oz cup))."
     # - text: " Only $13.50. Available Monday to Friday, 11:30 AM to 3 PM."
