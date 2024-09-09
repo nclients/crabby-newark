@@ -93,6 +93,26 @@ sections:
     bottomRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
     # bottomInfo: "We offer Takeout"
 
+# textBlock 
+  - type: "textBlock" 
+    id: ""
+    bgImg: ""
+    bgColor: ""
+    bgOpacity: "" # 0~1
+    title: 
+      - "🏈 Catch Every NFL Game"
+      - "at Crabby Crabby in Newark! 🏈"
+    titleColor: "#000000"
+    description: 
+      - "Looking for the perfect spot to watch your favorite NFL team, like the 49ers? Look no further! Crabby Crabby in Newark has you covered with big-screen TVs, mouthwatering seafood, and ice-cold drinks."
+      - "🍺 Refreshing drinks and delicious seafood specials"      
+      - "📺 Every game, every Sunday, in stunning HD"
+      - "🍔 A cozy atmosphere with an unbeatable game day menu"
+      - "🎉 Bring your friends and enjoy the ultimate NFL experience!"
+      - "Don't miss a moment of the action—join us for live NFL games at Crabby Crabby in Newark!"
+      - "Kickoff your Sunday the right way! 🏟️"
+    descriptionColor: "#000000"
+
 # Video
   - type: "video"
     id: ""

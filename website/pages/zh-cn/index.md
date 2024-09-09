@@ -89,6 +89,26 @@ sections:
     bottomRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
     # bottomInfo: "We offer Takeout"
 
+# textBlock 
+  - type: "textBlock" 
+    id: ""
+    bgImg: ""
+    bgColor: ""
+    bgOpacity: "" # 0~1
+    title: 
+      - "🏈 來 Newark 的 Crabby Crabby 餐廳"
+      - "觀看 NFL 比賽吧！! 🏈"
+
+    titleColor: "#000000"
+    description: 
+     - "還在尋找觀看你最愛的 NFL 球隊（比如 49 人隊）的理想場所嗎？不必再找了！Newark 的 Crabby Crabby 餐廳為你準備了大屏幕電視、美味的海鮮和冰鎮飲料。"
+     - "🍺 清涼飲品和美味海鮮特餐"
+     - "📺 每個星期天，精彩的高清比賽轉播"
+     - "🍔 溫馨的氛圍，無與倫比的比賽日特別菜單"
+     - "🎉 帶上你的朋友，一起享受終極 NFL 體驗！"
+     - "不要錯過任何精彩時刻——來 Newark 的 Crabby Crabby 餐廳觀看 NFL 比賽吧！"
+    descriptionColor: "#000000"
+
 # Video
   - type: "video"
     id: ""
