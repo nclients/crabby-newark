@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-       xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+       xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" >
     
       <url>
         <loc>https://crabbynewark.com/</loc>
-        <lastmod>2024-09-09</lastmod>
+        <lastmod>2024-09-13</lastmod>
         <image:image>
           <image:loc>https://crabbynewark.com/gallery/Chicken_Wings_With_Fries.webp</image:loc>
           <image:title>Chicken Wings With Fries</image:title>
@@ -54,10 +54,60 @@
           <image:loc>https://crabbynewark.com/gallery/crabby_newark_dishes.webp</image:loc>
           <image:title>Crabby Newark Dishes</image:title>
         </image:image>
+             
       </url>
       <url>
         <loc>https://crabbynewark.com/zh-cn/</loc>
-        <lastmod>2024-09-09</lastmod>
-        
+        <lastmod>2024-09-13</lastmod>
+        <image:image>
+          <image:loc>https://crabbynewark.com/gallery/Chicken_Wings_With_Fries.webp</image:loc>
+          <image:title>Chicken Wings With Fries</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/Clam_Chowder_16_oz.webp</image:loc>
+          <image:title>Clam Chowder 16 Oz</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/Fried.webp</image:loc>
+          <image:title>Fried</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/Fried_Calamari_W_Fries.webp</image:loc>
+          <image:title>Fried Calamari W Fries</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/Fried_Calamari_W_Fries2.webp</image:loc>
+          <image:title>Fried Calamari W Fries2</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/Garlic_Noodles.webp</image:loc>
+          <image:title>Garlic Noodles</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/Gumbo_16_oz.webp</image:loc>
+          <image:title>Gumbo 16 Oz</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/Kids_Chicken_Tenders_W_Fries.webp</image:loc>
+          <image:title>Kids Chicken Tenders W Fries</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/Seafood_Half_Pound_Snow_Crab.webp</image:loc>
+          <image:title>Seafood Half Pound Snow Crab</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/Seafood_Whole_Dungeness_Crab.webp</image:loc>
+          <image:title>Seafood Whole Dungeness Crab</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/Seafood_Whole_Dungeness_Crab_2.webp</image:loc>
+          <image:title>Seafood Whole Dungeness Crab 2</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/Seafood_Whole_Lobster.webp</image:loc>
+          <image:title>Seafood Whole Lobster</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/Sweet_Potato_Fries.webp</image:loc>
+          <image:title>Sweet Potato Fries</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/Tacos.webp</image:loc>
+          <image:title>Tacos</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/Tacos_2.webp</image:loc>
+          <image:title>Tacos 2</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/crabby_newark_dishes.webp</image:loc>
+          <image:title>Crabby Newark Dishes</image:title>
+        </image:image>
+             
       </url>
   </urlset>

@@ -331,9 +331,9 @@ footer:
   paymentMethod: "cash,visa" #alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
 seo:
-  metaTitle: "" 
+  metaTitle: "Crabby Crabby, a cajun seafood restaurant at Newark " 
 
-  metaDescription: "Crabby Crabby Newark is a premier seafood restaurant located at 6225 Jarvis Ave, Newark, CA 94560. Enjoy fresh and delicious seafood dishes in a vibrant and friendly atmosphere."
+  metaDescription: "Crabby Crabby,is one of the best cajun seafood restaurants at Newark, providing freshness of Cajun and Mexican flavors for Hayward, Newark, Union City and Fremont."
 
   keywords: "" # steak, restaurant, fine dining, New York
 

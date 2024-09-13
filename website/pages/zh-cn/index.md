@@ -312,8 +312,12 @@ footer:
   paymentMethod: "cash,visa" #alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
 seo:
-  metaDescription: "Crabby Crabby Newark 海鮮餐厅位于加州纽瓦克市中心，营业时间为周一到周五：午餐11:30 AM至3:00 PM，晚餐5:00 PM至9:00 PM；周六和周日：12:00 PM至9:00 PM。我们致力于为您提供地道美味的用餐体验。"
-  keywords: "Crabby Crabby Newark纽瓦克, 海鲜餐厅 纽瓦克, 纽瓦克最好的海鲜, 加州纽瓦克新鲜海鲜, 纽瓦克家庭餐饮, 纽瓦克特别场合餐厅, 加州纽瓦克餐厅, 湾区海鲜餐饮, Crabby Crabby Newark菜单"
+  metaTitle: "Crabby Crabby - 紐瓦克的特色凱津海鮮餐廳" 
+
+  metaDescription: "Crabby Crabby 是Newark最優秀的凱津海鮮餐廳之一，為Hayward, Newark, Union City and Fremont帶來新鮮的凱津與墨西哥風味美食。"
+  
+  canonicalHref: "https://crabbynewark.com/zh-cn/" # https://example.com/
+
   img: "/gallery/Seafood_Whole_Dungeness_Crab.webp"
   thisPageUrl: "https://crabbynewark.com/zh-cn"
   locale: "zh_CN" # zh_TW | zh_CN
