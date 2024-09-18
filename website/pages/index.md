@@ -17,8 +17,10 @@ tel: "510-588-1218"
 
 banner:
   text: 
-    - boldText: "🥳 Lunch Specials"
-    - text: "0.5 lb Head On Shrimp, 0.5 lb Green Mussels, 1 corn 2 potatoes 4 pc sausages. Only $12.99. Available Monday to Friday, 11:30 AM to 3 PM."
+    - text: "🥳 Come and pick up your"
+    - boldText: "Lunch Specials"
+    - text: "in 10 minutes!  🌯 Super Quesadilla – Now just $12 (Was $17). 🥪 Torta – Only $11.25 (Was $16). 🌯 Super Burritos – Get it for $12.90 (Was $17.99). 🥖 12“ Sandwiches – Yours for just $12.99 (Was $17.99)"
+
     # - smText: "(Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries
     #           (10 oz cup))."
     # - text: " Only $13.50. Available Monday to Friday, 11:30 AM to 3 PM."
@@ -328,7 +330,7 @@ footer:
   youtubeLink: ""
   yelp: false
   yelpLink: ""
-  paymentMethod: "cash,visa" #alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
+  paymentMethod: "applePay,mastercard,visa" #alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
 seo:
   metaTitle: "Crabby Crabby, a cajun seafood restaurant at Newark " 
