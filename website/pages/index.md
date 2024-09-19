@@ -19,7 +19,11 @@ banner:
   text: 
     - text: "🥳 Come and pick up your"
     - boldText: "Lunch Specials"
-    - text: "in 10 minutes!  🌯 Super Quesadilla – Now just $12 (Was $17). 🥪 Torta – Only $11.25 (Was $16). 🌯 Super Burritos – Get it for $12.90 (Was $17.99). 🥖 12“ Sandwiches – Yours for just $12.99 (Was $17.99)"
+    - text: "in 10 minutes!"
+
+    - text: "🥖 12” Catfish, Shrimp, or Tuna Sandwiches Including (lettuce, tomato, mayonnaise, dressing) – Only $12.99 (Was $17.99)."
+
+    - text: "🌯 Super Quesadilla – Only $12 (Was $17). 🥪 Torta – Only $11.25 (Was $16). 🌯 Super Burritos – Only $12.90 (Was $17.99)."
 
     # - smText: "(Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries
     #           (10 oz cup))."
