@@ -21,6 +21,8 @@ banner:
     - boldText: "Lunch Specials"
     - text: "in 10 minutes!"
 
+    - text: "🥖 6” Catfish, Shrimp, or Tuna Sandwiches Including (lettuce, tomato, mayonnaise, dressing) – Only $7.99 (Was $10.99)"
+
     - text: "🥖 12” Catfish, Shrimp, or Tuna Sandwiches Including (lettuce, tomato, mayonnaise, dressing) – Only $12.99 (Was $17.99)."
 
     - text: "🌯 Super Quesadilla – Only $12 (Was $17). 🥪 Torta – Only $11.25 (Was $16). 🌯 Super Burritos – Only $12.90 (Was $17.99)."
