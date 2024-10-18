@@ -6,13 +6,13 @@ title: "CRABBY CRABBY NEWARK - Best Food Today"
 favicon: "favicon.ico"
 logo: "logo.png"
 primaryColor: "#FF2D2F" # logo color
-secondaryColor: "#ffffff"
+secondaryColor: "#FFC73D"
 primaryColorScheme: "dark" # dark | light
 secondaryColorScheme: "light"
 dataGlfCuid: ""
 dataGlfRuid: ""
 orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34"
-tableReservationLink: ""
+tableReservationLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34&reservation=true&client_is_mobile=true"
 tel: "510-588-1218"
 
 banner:
@@ -58,7 +58,7 @@ header:
   addTelBtn: true
   telTextColor: "#ffffff"
   addOtherBtn: true
-  otherBtnInsteadText: "See MENU & Order"
+  otherBtnInsteadText: "Online Order"
   otherBtnHref: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34"
 
 sections:
@@ -89,8 +89,8 @@ sections:
     showOtherBtn: true
     btn1Text: "See MENU & Order" # default: order online
     btn1Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34" # default: order online
-    btn2Text: "" # default: table reservation
-    btn2Href: "" # default: table reservation
+    btn2Text: "Table Reservation" # default: table reservation
+    btn2Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34&reservation=true&client_is_mobile=true" # default: table reservation
 
     bannerImg: "crabby_crabby_newark_dish.webp"
     imgAlt: "Crabby Crabby Newark "
