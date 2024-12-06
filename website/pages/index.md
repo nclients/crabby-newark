@@ -42,9 +42,9 @@ header:
     text: ""
     size: 16
     color: ""
-  bgColor: "#000000"
-  bgOpacity: "0.8" # 0~1
-  menuTextColor: "#ffffff"
+  bgColor: "#ffffff"
+  bgOpacity: "0.9" # 0~1
+  menuTextColor: "#000000"
   menu:
     - { text: "Home", link: "/" }
     - { text: "Gallery", link: "#gallery" }
@@ -56,7 +56,7 @@ header:
   addTableReservationBtn: false
   tableReservationBtnInsteadText: ""
   addTelBtn: true
-  telTextColor: "#ffffff"
+  telTextColor: "#000000"
   addOtherBtn: true
   otherBtnInsteadText: "Online Order"
   otherBtnHref: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34"
@@ -136,8 +136,27 @@ sections:
 
 # Gallery  
   - type: "gallery"
-    id: "gallery"
+    id: "menu"
     mode: 3 # 1 - 3
+    bgImg: ""
+    bgImgAlt: ""
+    bgColor: ""
+    bgOpacity: "" # 0~1
+    title: 
+      - "Crabby Crabby Newark menu"
+    titleColor: "#000000"
+    description: 
+      - "Welcome to crabby crabby!"
+    descriptionColor: "#333333"
+    folderPath: "menu"
+    showImgName: false # true | false
+    imgNameColor: "#000000"
+    menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
+
+# Gallery  
+  - type: "gallery"
+    id: "gallery"
+    mode: 4 # 1 - 3
     bgImg: ""
     bgImgAlt: ""
     bgColor: ""
@@ -152,8 +171,6 @@ sections:
     showImgName: true # true | false
     imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
-
-
 # # textBlock 
 #   - type: "textBlock" 
 #     id: "about-us"
@@ -270,10 +287,10 @@ sections:
 # textBlock - Information
   - type: "textBlock" 
     id: ""
-    bgImg: "/gallery/Tacos_2.webp"
+    bgImg: ""
     bgImgAlt: "Crabby Crabby Newark - Best Food Today"
     bgColor: "#000"
-    bgOpacity: "0.6" # 0~1
+    bgOpacity: "" # 0~1
     title: 
       - "NEW! Online Ordering"
     titleColor: "#ffffff"
@@ -310,10 +327,11 @@ sections:
 footer:
   mode: 1 # 1
   noMarginTop: true
-  bgImg: "dedicated_to_gastronomic_excellence.webp"
+  bgImg: ""
   bgImgAlt: "Crabby Crabby Newark - Best Food Today"
-  bgColor: "#000000"
-  bgOpacity: "0.65" # 0~1
+  bgColor: "#F4F4F4"
+  bgOpacity: "0.8" # 0~1
+  textColor: "#000000" # default white
   openingHours: 
     - "Monday to Friday:"
     - "Lunch 11:30 AM to 3:00 PM, Dinner 5:00 PM to 9:00 PM"
@@ -503,5 +521,5 @@ seo:
     #   image: ""
       
 ---
-<!-- Powered by Best Food Today -->
----
+
+## <!-- Powered by Best Food Today -->
