@@ -67,14 +67,14 @@ sections:
 # hero
   - type: "hero" 
     id: ""
-    height: "100" # Conditionally use only when sectionType is imgBg
-    sectionType: "video" # video | imgWithText | imgBg
+    height: "90" # Conditionally use only when sectionType is imgBg
+    sectionType: "imgBg" # video | imgWithText | imgBg
     bgVideoType: "gjw" # youtube | vimeo | gjw
     bgVideoId: "1gvlm41386a7H97kaPJg4V9Gh18o1c"
-    bgImg: "crabby_crabby_newark_hero_background_image.webp"
+    bgImg: "A basket of crispy fried chicken wings and french fries.webp"
     bgImgAlt: "crabby crabby newark Hero Background Image"
-    bgColor: ""
-    bgOpacity: "" # 0~1
+    bgColor: "#000"
+    bgOpacity: "0.5" # 0~1
     title: 
       - "Crabby Crabby Newark"
     titleColor: "#ffffff"
@@ -101,25 +101,44 @@ sections:
     bottomRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
     # bottomInfo: "We offer Takeout"
 
-# textBlock 
-  - type: "textBlock" 
-    id: ""
+# Crabby Crabby Newark menu
+  - type: "gallery"
+    id: "specials"
+    mode: 3 # 1 - 3
     bgImg: ""
+    bgImgAlt: ""
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "🏈 Catch Every NFL Game"
-      - "at Crabby Crabby in Newark! 🏈"
+      - "Crabby Crabby Newark Specials"
     titleColor: "#000000"
     description: 
-      - "Looking for the perfect spot to watch your favorite NFL team, like the 49ers? Look no further! Crabby Crabby in Newark has you covered with big-screen TVs, mouthwatering seafood, and ice-cold drinks."
-      - "🍺 Refreshing drinks and delicious seafood specials"      
-      - "📺 Every game, every Sunday, in stunning HD"
-      - "🍔 A cozy atmosphere with an unbeatable game day menu"
-      - "🎉 Bring your friends and enjoy the ultimate NFL experience!"
-      - "Don't miss a moment of the action—join us for live NFL games at Crabby Crabby in Newark!"
-      - "Kickoff your Sunday the right way! 🏟️"
-    descriptionColor: "#000000"
+      - ""
+    descriptionColor: "#333333"
+    folderPath: "specials"
+    showImgName: false # true | false
+    imgNameColor: "#000000"
+    menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
+
+# textBlock 
+  # - type: "textBlock" 
+  #   id: ""
+  #   bgImg: ""
+  #   bgColor: ""
+  #   bgOpacity: "" # 0~1
+  #   title: 
+  #     - "🏈 Catch Every NFL Game"
+  #     - "at Crabby Crabby in Newark! 🏈"
+  #   titleColor: "#000000"
+  #   description: 
+  #     - "Looking for the perfect spot to watch your favorite NFL team, like the 49ers? Look no further! Crabby Crabby in Newark has you covered with big-screen TVs, mouthwatering seafood, and ice-cold drinks."
+  #     - "🍺 Refreshing drinks and delicious seafood specials"      
+  #     - "📺 Every game, every Sunday, in stunning HD"
+  #     - "🍔 A cozy atmosphere with an unbeatable game day menu"
+  #     - "🎉 Bring your friends and enjoy the ultimate NFL experience!"
+  #     - "Don't miss a moment of the action—join us for live NFL games at Crabby Crabby in Newark!"
+  #     - "Kickoff your Sunday the right way! 🏟️"
+  #   descriptionColor: "#000000"
 
 # Video
   - type: "video"
@@ -134,7 +153,7 @@ sections:
       - "1go20iea10u7ATj8Hyv9zPYCF19j1c"
     isOnlyDisplayOnMobile: false
 
-# Gallery  
+# Crabby Crabby Newark menu
   - type: "gallery"
     id: "menu"
     mode: 3 # 1 - 3
@@ -156,19 +175,19 @@ sections:
 # Gallery  
   - type: "gallery"
     id: "gallery"
-    mode: 4 # 1 - 3
+    mode: 3 # 1 - 3
     bgImg: ""
     bgImgAlt: ""
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Food At Crabby Crabby Newark"
+      - "Crabby Crabby Photos"
     titleColor: "#000000"
     description: 
       - "This is the best place to find delicious seafood."
     descriptionColor: "#333333"
     folderPath: "gallery"
-    showImgName: true # true | false
+    showImgName: false # true | false
     imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
 # # textBlock 
@@ -243,8 +262,8 @@ sections:
     btn2Text: "" # default: table reservation
     btn2Href: "" # default: table reservation
 
-    bannerImg: "crabby_crabby_newark_exterior.webp"
-    imgAlt: "crabby crabby newark exterior"
+    bannerImg: "a corner of Crabby Crabby Newark restaurant.webp"
+    imgAlt: A corner of Crabby Crabby Newark restaurant resembles a miniature ocean world. On the wooden wall, the neon sign "CRABBY CRABBY" glows invitingly, as if beckoning diners to embark on a culinary sea adventure. A large crab model stands guard, while lobster claw decorations and pirate flags add a touch of mystery to this maritime realm.
     imgPosition: "imgLeft" # imgLeft | imgRight
    
     bottomRounded: "" # sm | md | lg | xl | 2xl | 3xl | full

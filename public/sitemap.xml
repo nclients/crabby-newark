@@ -4,8 +4,20 @@
     
       <url>
         <loc>https://crabbynewark.com/</loc>
-        <lastmod>2024-12-06</lastmod>
+        <lastmod>2024-12-16</lastmod>
         <image:image>
+          <image:loc>https://crabbynewark.com/gallery/A large plate of seafood boil.webp</image:loc>
+          <image:title>A Large Plate Of Seafood Boil</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/A mouthwatering seafood feast.webp</image:loc>
+          <image:title>A Mouthwatering Seafood Feast</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/A pile of seafood in a bag.webp</image:loc>
+          <image:title>A Pile Of Seafood In A Bag</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/A seafood feast.webp</image:loc>
+          <image:title>A Seafood Feast</image:title>
+        </image:image><image:image>
           <image:loc>https://crabbynewark.com/gallery/Chicken_Wings_With_Fries.webp</image:loc>
           <image:title>Chicken Wings With Fries</image:title>
         </image:image><image:image>
@@ -50,6 +62,9 @@
         </image:image><image:image>
           <image:loc>https://crabbynewark.com/gallery/Tacos_2.webp</image:loc>
           <image:title>Tacos 2</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/The interior of a seafood restauran Crabby Crabby.webp</image:loc>
+          <image:title>The Interior Of A Seafood Restauran Crabby Crabby</image:title>
         </image:image><image:image>
           <image:loc>https://crabbynewark.com/gallery/crabby_newark_dishes.webp</image:loc>
           <image:title>Crabby Newark Dishes</image:title>
@@ -58,8 +73,20 @@
       </url>
       <url>
         <loc>https://crabbynewark.com/zh-cn/</loc>
-        <lastmod>2024-12-06</lastmod>
+        <lastmod>2024-12-16</lastmod>
         <image:image>
+          <image:loc>https://crabbynewark.com/gallery/A large plate of seafood boil.webp</image:loc>
+          <image:title>A Large Plate Of Seafood Boil</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/A mouthwatering seafood feast.webp</image:loc>
+          <image:title>A Mouthwatering Seafood Feast</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/A pile of seafood in a bag.webp</image:loc>
+          <image:title>A Pile Of Seafood In A Bag</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/A seafood feast.webp</image:loc>
+          <image:title>A Seafood Feast</image:title>
+        </image:image><image:image>
           <image:loc>https://crabbynewark.com/gallery/Chicken_Wings_With_Fries.webp</image:loc>
           <image:title>Chicken Wings With Fries</image:title>
         </image:image><image:image>
@@ -104,6 +131,9 @@
         </image:image><image:image>
           <image:loc>https://crabbynewark.com/gallery/Tacos_2.webp</image:loc>
           <image:title>Tacos 2</image:title>
+        </image:image><image:image>
+          <image:loc>https://crabbynewark.com/gallery/The interior of a seafood restauran Crabby Crabby.webp</image:loc>
+          <image:title>The Interior Of A Seafood Restauran Crabby Crabby</image:title>
         </image:image><image:image>
           <image:loc>https://crabbynewark.com/gallery/crabby_newark_dishes.webp</image:loc>
           <image:title>Crabby Newark Dishes</image:title>

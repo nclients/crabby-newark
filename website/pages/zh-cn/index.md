@@ -58,13 +58,13 @@ sections:
     noMarginTop: true
     id: ""
     height: "90" # Conditionally use only when sectionType is imgBg
-    sectionType: "video" # video | imgWithText | imgBg
+    sectionType: "imgBg" # video | imgWithText | imgBg
     bgVideoType: "gjw" # youtube | vimeo | gjw
     bgVideoId: "1gvlm41386a7H97kaPJg4V9Gh18o1c"
-    bgImg: "crabby_crabby_newark_hero_background_image.webp"
+    bgImg: "A basket of crispy fried chicken wings and french fries.webp"
     bgImgAlt: "crabby crabby newark"
-    bgColor: ""
-    bgOpacity: "" # 0~1
+    bgColor: "#000"
+    bgOpacity: "0.5" # 0~1
     title:
       - "Crabby Crabby Newark"
     titleColor: "#ffffff"
@@ -92,24 +92,43 @@ sections:
     # bottomInfo: "We offer Takeout"
 
   # textBlock
-  - type: "textBlock"
-    id: ""
+  # - type: "textBlock"
+  #   id: ""
+  #   bgImg: ""
+  #   bgColor: ""
+  #   bgOpacity: "" # 0~1
+  #   title:
+  #     - "🏈 來 Newark 的 Crabby Crabby 餐廳"
+  #     - "觀看 NFL 比賽吧！! 🏈"
+
+  #   titleColor: "#000000"
+  #   description:
+  #     - "還在尋找觀看你最愛的 NFL 球隊（比如 49 人隊）的理想場所嗎？不必再找了！Newark 的 Crabby Crabby 餐廳為你準備了大屏幕電視、美味的海鮮和冰鎮飲料。"
+  #     - "🍺 清涼飲品和美味海鮮特餐"
+  #     - "📺 每個星期天，精彩的高清比賽轉播"
+  #     - "🍔 溫馨的氛圍，無與倫比的比賽日特別菜單"
+  #     - "🎉 帶上你的朋友，一起享受終極 NFL 體驗！"
+  #     - "不要錯過任何精彩時刻——來 Newark 的 Crabby Crabby 餐廳觀看 NFL 比賽吧！"
+  #   descriptionColor: "#000000"
+
+  # Crabby Crabby Newark menu
+  - type: "gallery"
+    id: "specials"
+    mode: 3 # 1 - 3
     bgImg: ""
+    bgImgAlt: ""
     bgColor: ""
     bgOpacity: "" # 0~1
     title:
-      - "🏈 來 Newark 的 Crabby Crabby 餐廳"
-      - "觀看 NFL 比賽吧！! 🏈"
-
+      - "特價優惠活動"
     titleColor: "#000000"
     description:
-      - "還在尋找觀看你最愛的 NFL 球隊（比如 49 人隊）的理想場所嗎？不必再找了！Newark 的 Crabby Crabby 餐廳為你準備了大屏幕電視、美味的海鮮和冰鎮飲料。"
-      - "🍺 清涼飲品和美味海鮮特餐"
-      - "📺 每個星期天，精彩的高清比賽轉播"
-      - "🍔 溫馨的氛圍，無與倫比的比賽日特別菜單"
-      - "🎉 帶上你的朋友，一起享受終極 NFL 體驗！"
-      - "不要錯過任何精彩時刻——來 Newark 的 Crabby Crabby 餐廳觀看 NFL 比賽吧！"
-    descriptionColor: "#000000"
+      - ""
+    descriptionColor: "#333333"
+    folderPath: "specials"
+    showImgName: false # true | false
+    imgNameColor: "#000000"
+    menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
 
   # Video
   - type: "video"
@@ -150,7 +169,7 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title:
-      - "菜品展示"
+      - "圖片展示"
     titleColor: "#000000"
     description:
       - "這裡是品嚐美味海鮮的最佳去處。"
