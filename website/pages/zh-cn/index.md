@@ -163,7 +163,7 @@ sections:
   # Gallery
   - type: "gallery"
     id: "gallery"
-    mode: 4 # 1 - 3
+    mode: 3 # 1 - 3
     bgImg: ""
     bgImgAlt: ""
     bgColor: ""
@@ -236,7 +236,7 @@ sections:
     btn2Text: "" # default: table reservation
     btn2Href: "" # default: table reservation
 
-    bannerImg: "crabby_crabby_newark_exterior.webp"
+    bannerImg: "a corner of Crabby Crabby Newark restaurant.webp"
     imgAlt: "crabby crabby newark 餐廳外觀"
     imgPosition: "imgLeft" # imgLeft | imgRight
 
