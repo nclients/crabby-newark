@@ -74,7 +74,7 @@ sections:
     bgImg: "A table overflowing with delicious seafood dishes from Crabby Crabby.webp"
     mobileBgImg: "A table overflowing with delicious seafood dishes from Crabby Crabby_smartphone.webp"
     bgImgAlt: "crabby crabby newark Hero Background Image"
-    bgColor: "#000"
+    bgColor: ""
     bgOpacity: "0.5" # 0~1
     title: 
       - "Crabby Crabby Newark"
