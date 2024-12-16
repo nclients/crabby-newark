@@ -71,7 +71,7 @@ sections:
     sectionType: "imgBg" # video | imgWithText | imgBg
     bgVideoType: "gjw" # youtube | vimeo | gjw
     bgVideoId: "1gvlm41386a7H97kaPJg4V9Gh18o1c"
-    bgImg: "A basket of crispy fried chicken wings and french fries.webp"
+    bgImg: "A table overflowing with delicious seafood dishes from Crabby Crabby.webp"
     bgImgAlt: "crabby crabby newark Hero Background Image"
     bgColor: "#000"
     bgOpacity: "0.5" # 0~1
@@ -79,7 +79,7 @@ sections:
       - "Crabby Crabby Newark"
     titleColor: "#ffffff"
     description: 
-      - "Delight your Palate, Discover your Smile at Crabby Crabby."
+      - "Delight Your Palate, Discover Your Smile, At Crabby Crabby."
     descriptionColor: "#ffffff"
 
     addOrderOnlineBtn: false
@@ -297,7 +297,7 @@ sections:
     btn2Text: "" # default: table reservation
     btn2Href: "" # default: table reservation
 
-    bannerImg: "handwritten_menu.webp"
+    bannerImg: "The interior of a seafood restauran Crabby Crabby.webp"
     imgAlt: "Crabby Crabby Newark "
     imgPosition: "imgRight" # imgLeft | imgRight
    
