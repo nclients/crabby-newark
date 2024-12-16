@@ -72,7 +72,7 @@ sections:
     bgVideoType: "gjw" # youtube | vimeo | gjw
     bgVideoId: "1gvlm41386a7H97kaPJg4V9Gh18o1c"
     bgImg: "A table overflowing with delicious seafood dishes from Crabby Crabby.webp"
-    mobileBgImg: "A table overflowing with delicious seafood dishes from Crabby Crabby_phone.webp"
+    mobileBgImg: "A table overflowing with delicious seafood dishes from Crabby Crabby_smartphone.webp"
     bgImgAlt: "crabby crabby newark Hero Background Image"
     bgColor: "#000"
     bgOpacity: "0.5" # 0~1
