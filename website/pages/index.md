@@ -15,25 +15,25 @@ orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?resta
 tableReservationLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34&reservation=true&client_is_mobile=true"
 tel: "510-588-1218"
 
-banner:
-  text: 
-    - text: "🥳 Come and pick up your"
-    - boldText: "Lunch Specials"
-    - text: "in 10 minutes!"
+# banner:
+#   text: 
+#     - text: "🥳 Come and pick up your"
+#     - boldText: "Lunch Specials"
+#     - text: "in 10 minutes!"
 
-    - text: "🥖 6” Catfish, Shrimp, or Tuna Sandwiches Including (lettuce, tomato, mayonnaise, dressing) – Only $7.99 (Was $10.99)"
+#     - text: "🥖 6” Catfish, Shrimp, or Tuna Sandwiches Including (lettuce, tomato, mayonnaise, dressing) – Only $7.99 (Was $10.99)"
 
-    - text: "🥖 12” Catfish, Shrimp, or Tuna Sandwiches Including (lettuce, tomato, mayonnaise, dressing) – Only $12.99 (Was $17.99)."
+#     - text: "🥖 12” Catfish, Shrimp, or Tuna Sandwiches Including (lettuce, tomato, mayonnaise, dressing) – Only $12.99 (Was $17.99)."
 
-    - text: "🌯 Super Quesadilla – Only $12 (Was $17). 🥪 Torta – Only $11.25 (Was $16). 🌯 Super Burritos – Only $12.90 (Was $17.99)."
+#     - text: "🌯 Super Quesadilla – Only $12 (Was $17). 🥪 Torta – Only $11.25 (Was $16). 🌯 Super Burritos – Only $12.90 (Was $17.99)."
 
-    # - smText: "(Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries
-    #           (10 oz cup))."
-    # - text: " Only $13.50. Available Monday to Friday, 11:30 AM to 3 PM."
-  # add more text...
-  textColor: "#ffffff"
-  bgColor: "#FF2D2F"
-  bgOpacity: "1" # 0~1
+#     # - smText: "(Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries
+#     #           (10 oz cup))."
+#     # - text: " Only $13.50. Available Monday to Friday, 11:30 AM to 3 PM."
+#   # add more text...
+#   textColor: "#ffffff"
+#   bgColor: "#FF2D2F"
+#   bgOpacity: "1" # 0~1
 
 # header
 header:
