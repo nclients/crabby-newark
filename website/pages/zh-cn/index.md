@@ -3,7 +3,7 @@ tag: "GTM-MJ592KWF"
 title: "CRABBY CRABBY NEWARK - Best Food Today"
 favicon: "favicon.ico"
 logo: "logo.png"
-primaryColor: "#FF2D2F" # logo color
+primaryColor: "#C21919" # logo color
 secondaryColor: "#FFC73D"
 primaryColorScheme: "dark" # dark | light
 secondaryColorScheme: "light"
