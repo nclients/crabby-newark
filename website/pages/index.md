@@ -2,7 +2,7 @@
 # Do not change the content below
 layout: "ssg-theme-astro/layouts/main.astro"
 tag: "GTM-MJ592KWF"
-title: "CRABBY CRABBY NEWARK - Best Food Today"
+title: "Crabby Crabby Newark"
 favicon: "favicon.ico"
 logo: "logo.png"
 primaryColor: "#C21919" # logo color
