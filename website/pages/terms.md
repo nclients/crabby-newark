@@ -98,4 +98,4 @@ footer:
   paymentMethod: "applePay,mastercard,visa" #alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 ---
 
-## <!-- Powered by Best Food Today -->
+ <!-- Powered by Best Food Today -->
