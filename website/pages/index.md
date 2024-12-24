@@ -80,7 +80,7 @@ sections:
       - "Crabby Crabby Newark"
     titleColor: "#ffffff"
     description: 
-      - "Delight Your Palate, Discover Your Smile, At Crabby Crabby."
+      - "Delight your palate with a delicious seafood boil and discover your smile at Crabby Crabby – the best crab boil near you."
     descriptionColor: "#ffffff"
 
     addOrderOnlineBtn: false
