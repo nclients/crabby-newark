@@ -66,7 +66,7 @@ sections:
 
 # hero
   - type: "hero" 
-    id: ""
+    id: "hero"
     height: "90" # Conditionally use only when sectionType is imgBg
     sectionType: "imgBg" # video | imgWithText | imgBg
     bgVideoType: "gjw" # youtube | vimeo | gjw
@@ -143,7 +143,7 @@ sections:
 
 # Video
   - type: "video"
-    id: ""
+    id: "video"
     title: 
       - "A Corner of Tradition and Flavor"
     description: 
@@ -222,7 +222,7 @@ sections:
 
 # feature - 2
   - type: "feature" 
-    id: ""
+    id: "our-mission"
     height: "100" # Conditionally use only when sectionType is imgBg
     noMarginTop: "all" # mobile | tablet | desktop ｜ all
     sectionType: "imgWithText" # video | imgWithText | imgBg
@@ -272,7 +272,7 @@ sections:
 
 # feature - 3
   - type: "feature" 
-    id: ""
+    id: "committed-to-the-community"
     height: "100" # Conditionally use only when sectionType is imgBg
     sectionType: "imgWithText" # video | imgWithText | imgBg
     bgVideoType: "" # youtube | vimeo | gjw
@@ -306,7 +306,7 @@ sections:
 
 # textBlock - Information
   - type: "textBlock" 
-    id: ""
+    id: "textBlock"
     bgImg: ""
     bgImgAlt: "Crabby Crabby Newark - Best Food Today"
     bgColor: "#000"
