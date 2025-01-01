@@ -52,9 +52,9 @@ header:
   menuTextColor: "#000000"
   menu:
     - { text: "Home", link: "/" }
-    - { text: "Gallery", link: "#gallery" }
-    - { text: "About Us", link: "#about-us" }
-    - { text: "Contact Us", link: "#contact-us" }
+    - { text: "Gallery", link: "/#gallery" }
+    - { text: "About Us", link: "/#about-us" }
+    - { text: "Contact Us", link: "/#contact-us" }
     - { text: "中文", link: "/zh-cn" }
   addOrderOnlineBtn: false
   orderOnlineBtnInsteadText: ""
@@ -85,9 +85,9 @@ footer:
     - "12:00 PM to 9:00 PM"
   menu:
     - { text: "Home", link: "/" }
-    - { text: "Gallery", link: "#gallery" }
-    - { text: "About Us", link: "https://crabbynewark.com/#about-us" }
-    - { text: "Contact Us", link: "https://crabbynewark.com/#contact-us" }
+    - { text: "Gallery", link: "/#gallery" }
+    - { text: "About Us", link: "/#about-us" }
+    - { text: "Contact Us", link: "/#contact-us" }
     - { text: "中文", link: "/zh-cn" }
 
   FB: true
