@@ -268,7 +268,11 @@ sections:
     imgPosition: "imgLeft" # imgLeft | imgRight
    
     bottomRounded: "" # sm | md | lg | xl | 2xl | 3xl | full
-
+ 
+  - type: codeInsert
+    code:
+      - type: externalScript
+        content: src=https://website-widgets.pages.dev/dist/sienna.min.js
 
 # feature - 3
   - type: "feature" 
