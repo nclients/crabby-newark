@@ -163,7 +163,7 @@ sections:
   # Gallery
   - type: "gallery"
     id: "gallery"
-    mode: 3 # 1 - 3
+    mode: 4 # 1 - 3
     bgImg: ""
     bgImgAlt: ""
     bgColor: ""
@@ -324,9 +324,13 @@ footer:
   bgOpacity: "" # 0~1
   textColor: "#000000"
   openingHours:
-    - "週一到週五:"
-    - "11:30 AM ~ 3:00 PM，5:00 PM ~ 9:00 PM"
-    - "週六、日:"
+    - "週一 ～ 週四"
+    - "11:30 AM ~ 9:00 PM"
+    - "週五"
+    - "11:30 PM ~ 9:30 PM"
+    - "週六"
+    - "12:00 PM ~ 9:30 PM"
+    - "週日"
     - "12:00 PM ~ 9:00 PM"
   openingHoursInsteadText: "營業時間"
   menu:
@@ -357,7 +361,7 @@ seo:
 
   img: "/gallery/Seafood_Whole_Dungeness_Crab.webp"
   thisPageUrl: "https://crabbynewark.com/zh-cn"
-  locale: "zh_CN" # zh_TW | zh_CN
+  locale: "zh_TW" # zh_TW | zh_CN
 
 # Do not change the content below
 layout: "ssg-theme-astro/layouts/main.astro"

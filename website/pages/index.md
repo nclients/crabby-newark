@@ -176,7 +176,7 @@ sections:
 # Gallery  
   - type: "gallery"
     id: "gallery"
-    mode: 3 # 1 - 3
+    mode: 4 # 1 - 3
     bgImg: ""
     bgImgAlt: ""
     bgColor: ""
@@ -357,9 +357,13 @@ footer:
   bgOpacity: "0.8" # 0~1
   textColor: "#000000" # default white
   openingHours: 
-    - "Monday to Friday:"
-    - "Lunch 11:30 AM to 3:00 PM, Dinner 5:00 PM to 9:00 PM"
-    - "Saturday and Sunday:"
+    - "Monday ~ Thursday"
+    - "11:30 AM - 9:00 PM"
+    - "Friday"
+    - "11:30 AM - 9:30 PM"
+    - "Saturday"
+    - "12:00 PM to 9:30 PM"
+    - "Sunday"
     - "12:00 PM to 9:00 PM"
   menu:
     - { text: "Home", link: "/" }
@@ -448,22 +452,20 @@ seo:
       - "Tuesday"
       - "Wednesday"
       - "Thursday"
+    opens: "11:30"
+    closes: "21:00"
+  - dayOfWeek:
       - "Friday"
     opens: "11:30"
-    closes: "15:00"
-  - dayOfWeek:
-      - "Monday"
-      - "Tuesday"
-      - "Wednesday"
-      - "Thursday"
-      - "Friday"
-    opens: "17:00"
-    closes: "21:00"
+    closes: "21:30"
   - dayOfWeek:
       - "Saturday"
+    opens: "12:00"
+    closes: "21:30"
+  - dayOfWeek:
       - "Sunday"
     opens: "12:00"
-    closes: "21:00"
+    closes: "21:00"  
    
   menu: "https://crabbynewark.com/" # https://example.com/
   # acceptsReservations: true # true or false

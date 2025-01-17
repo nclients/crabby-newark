@@ -78,10 +78,14 @@ footer:
   bgColor: "#F4F4F4"
   bgOpacity: "0.8" # 0~1
   textColor: "#000000" # default white
-  openingHours:
-    - "Monday to Friday:"
-    - "Lunch 11:30 AM to 3:00 PM, Dinner 5:00 PM to 9:00 PM"
-    - "Saturday and Sunday:"
+  openingHours: 
+    - "Monday ~ Thursday"
+    - "11:30 AM - 9:00 PM"
+    - "Friday"
+    - "11:30 AM - 9:30 PM"
+    - "Saturday"
+    - "12:00 PM to 9:30 PM"
+    - "Sunday"
     - "12:00 PM to 9:00 PM"
   menu:
     - { text: "Home", link: "/" }
