@@ -19,6 +19,7 @@ tel: "510-588-1218"
 # cityStateAbbreviationZIPCode: Newark, CA 94560
 # countryName: United States
 address: Crabby Crabby Newark, 6225 Jarvis Ave, Newark, CA 94560, United States
+creationDate: 1 Jan 2025
 
 banner:
   text:
