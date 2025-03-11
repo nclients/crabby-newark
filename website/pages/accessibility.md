@@ -23,15 +23,13 @@ creationDate: 1 Jan 2025
 
 banner:
   text:
-    - text: "🥳 Come and pick up your"
-    - boldText: "Lunch Specials"
-    - text: "in 10 minutes!"
+    # - text: "🥳 Come and pick up your"
+    # - boldText: "Lunch Specials"
+    # - text: "in 10 minutes!"
 
-    - text: "🥖 6” Catfish, Shrimp, or Tuna Sandwiches Including (lettuce, tomato, mayonnaise, dressing) – Only $7.99 (Was $10.99)"
+    - text: "🥖 Family Combo, only $100 now, original $125, good for 4-5 people!"
 
-    - text: "🥖 12” Catfish, Shrimp, or Tuna Sandwiches Including (lettuce, tomato, mayonnaise, dressing) – Only $12.99 (Was $17.99)."
-
-    - text: "🌯 Super Quesadilla – Only $12 (Was $17). 🥪 Torta – Only $11.25 (Was $16). 🌯 Super Burritos – Only $12.90 (Was $17.99)."
+    - text: "🥖 King Crab Legs Combo – a luxurious treat! Only $80 now, original $95."
 
     # - smText: "(Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries
     #           (10 oz cup))."
@@ -79,7 +77,7 @@ footer:
   bgColor: "#F4F4F4"
   bgOpacity: "0.8" # 0~1
   textColor: "#000000" # default white
-  openingHours: 
+  openingHours:
     - "Monday ~ Thursday"
     - "11:30 AM - 9:00 PM"
     - "Friday"
