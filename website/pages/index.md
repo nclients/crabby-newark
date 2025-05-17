@@ -142,7 +142,7 @@ sections:
   - type: "video"
     id: "video"
     title: 
-      - "A Corner of Tradition and Flavor"
+      - "Seafood Boil Near Me"
     description: 
       - "From the heart of Newark, CA, Crabby Crabby Restaurant is a corner where tradition meets flavor. Every corner of our restaurant is infused with authenticity, from the décor to every bite we serve." 
     videoType: "gjw" # vimeo | gjw | youtube
@@ -179,7 +179,7 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "seafood boil near me"
+      - "Crabby Crabby Photos"
     titleColor: "#000000"
     description: 
       - "This is the best place to find delicious seafood."
@@ -382,7 +382,7 @@ footer:
   paymentMethod: "applePay,mastercard,visa" #alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
 seo:
-  metaTitle: "Crabby Crabby, a cajun seafood restaurant at Newark " 
+  metaTitle: "Crabby Crabby, cajun seafood boil at Newark " 
 
   metaDescription: "Crabby Crabby,is one of the best cajun seafood restaurants at Newark, providing freshness of Cajun and Mexican flavors for Hayward, Newark, Union City and Fremont."
 
