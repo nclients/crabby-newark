@@ -179,7 +179,7 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Crabby Crabby Photos"
+      - "seafood boil near me"
     titleColor: "#000000"
     description: 
       - "This is the best place to find delicious seafood."
