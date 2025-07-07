@@ -13,7 +13,7 @@ dataGlfCuid: ""
 dataGlfRuid: ""
 orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34"
 tableReservationLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34&reservation=true&client_is_mobile=true"
-tel: "510-588-1218"
+tel: "510-790-8988"
 # businessName: Crabby Crabby Newark
 # streetAddress: 6225 Jarvis Ave
 # cityStateAbbreviationZIPCode: Newark, CA 94560
@@ -41,7 +41,8 @@ banner:
 
 # header
 header:
-  logoSize: 55
+  logoSize: 80
+  logoSizeOnMobile: 70
   textAfterLogo:
     text: ""
     size: 16

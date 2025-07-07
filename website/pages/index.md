@@ -13,7 +13,7 @@ dataGlfCuid: ""
 dataGlfRuid: ""
 orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34"
 tableReservationLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34&reservation=true&client_is_mobile=true"
-tel: "510-588-1218"
+tel: "510-790-8988"
 
 banner:
   text:
@@ -34,7 +34,8 @@ banner:
 
 # header
 header:
-  logoSize: 55
+  logoSize: 80
+  logoSizeOnMobile: 70
   textAfterLogo: 
     text: ""
     size: 16
@@ -64,7 +65,7 @@ sections:
 # hero
   - type: "hero" 
     id: "hero"
-    height: "90" # Conditionally use only when sectionType is imgBg
+    height: "100" # Conditionally use only when sectionType is imgBg
     sectionType: "imgBg" # video | imgWithText | imgBg
     bgVideoType: "gjw" # youtube | vimeo | gjw
     bgVideoId: "1gvlm41386a7H97kaPJg4V9Gh18o1c"
@@ -154,7 +155,7 @@ sections:
 # Crabby Crabby Newark menu
   - type: "gallery"
     id: "menu"
-    mode: 3 # 1 - 3
+    mode: 2 # 1 - 3
     bgImg: ""
     bgImgAlt: ""
     bgColor: ""
@@ -328,7 +329,7 @@ sections:
     iframeUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3163.2010723950107!2d-122.05385532436703!3d37.55032622505781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fbf25977c4139%3A0x65a0766c424ad6dc!2sCrabby%20Crabby%20Newark!5e0!3m2!1sen!2sjp!4v1721832800644!5m2!1sen!2sjp"
     addTelBtn: true
     getDirectionBtnInsteadText: ""
-    telInsteadText: "Tel: 510-588-1218"
+    telInsteadText: "Tel: 510-790-8988"
  
   # - type: "modal"
   #   bgColor: "#333"
