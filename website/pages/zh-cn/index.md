@@ -113,23 +113,23 @@ sections:
   #   descriptionColor: "#000000"
 
   # Crabby Crabby Newark menu
-  - type: "gallery"
-    id: "specials"
-    mode: 3 # 1 - 3
-    bgImg: ""
-    bgImgAlt: ""
-    bgColor: ""
-    bgOpacity: "" # 0~1
-    title:
-      - "特價優惠活動"
-    titleColor: "#000000"
-    description:
-      - ""
-    descriptionColor: "#333333"
-    folderPath: "specials"
-    showImgName: false # true | false
-    imgNameColor: "#000000"
-    menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
+  # - type: "gallery"
+  #   id: "specials"
+  #   mode: 3 # 1 - 3
+  #   bgImg: ""
+  #   bgImgAlt: ""
+  #   bgColor: ""
+  #   bgOpacity: "" # 0~1
+  #   title:
+  #     - "特價優惠活動"
+  #   titleColor: "#000000"
+  #   description:
+  #     - ""
+  #   descriptionColor: "#333333"
+  #   folderPath: "specials"
+  #   showImgName: false # true | false
+  #   imgNameColor: "#000000"
+  #   menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
 
   # Video
   - type: "video"
