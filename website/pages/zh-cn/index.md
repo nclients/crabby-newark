@@ -13,19 +13,6 @@ orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?resta
 tableReservationLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34&reservation=true&client_is_mobile=true"
 tel: "510-790-8988"
 
-banner:
-  text:
-    # - text: "🥳 快來在10分鐘內取走你的"
-    # - boldText: "特價午餐！"
-    - text: "🥖 家庭套餐(Family Combo)，現僅售 $100，原價 $125，適合 4-5 人！🥖 帝王蟹腿套餐(King Crab Legs Combo) - 奢華美味享受！現僅售 $80，原價 $95。"
-
-    # - smText: "蒸飯（10盎司杯）/ 蒜蓉麵條（10盎司杯）/ 卡津薯條（10盎司杯）。"
-    # - text: "售價$13.50。僅限週一至週五，11:30 AM to 3 PM 提供。"
-  # add more text...
-  textColor: "#ffffff"
-  bgColor: "#FF2D2F"
-  bgOpacity: "1" # 0~1
-
 # header
 header:
   logoSize: 80

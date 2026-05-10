@@ -15,23 +15,6 @@ orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?resta
 tableReservationLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34&reservation=true&client_is_mobile=true"
 tel: "510-790-8988"
 
-banner:
-  text:
-    # - text: "🥳 Come and pick up your"
-    # - boldText: "Lunch Specials"
-    # - text: "in 10 minutes!"
-
-    - text: "🥖 Family Combo, only $100 now, original $125, good for 4-5 people!"
-
-    - text: "🥖 King Crab Legs Combo – a luxurious treat! Only $80 now, original $95."
-    # - smText: "(Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries
-    #           (10 oz cup))."
-    # - text: " Only $13.50. Available Monday to Friday, 11:30 AM to 3 PM."
-  # add more text...
-  textColor: "#ffffff"
-  bgColor: "#FF2D2F"
-  bgOpacity: "1" # 0~1
-
 # header
 header:
   logoSize: 80

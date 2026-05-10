@@ -21,24 +21,6 @@ tel: "510-790-8988"
 address: Crabby Crabby Newark, 6225 Jarvis Ave, Newark, CA 94560, United States
 creationDate: 1 Jan 2025
 
-banner:
-  text:
-    # - text: "🥳 Come and pick up your"
-    # - boldText: "Lunch Specials"
-    # - text: "in 10 minutes!"
-
-    - text: "🥖 Family Combo, only $100 now, original $125, good for 4-5 people!"
-
-    - text: "🥖 King Crab Legs Combo – a luxurious treat! Only $80 now, original $95."
-
-    # - smText: "(Steam Rice (10 oz cup) / Garlic Noodles (10 oz cup) / Cajun Fries
-    #           (10 oz cup))."
-    # - text: " Only $13.50. Available Monday to Friday, 11:30 AM to 3 PM."
-  # add more text...
-  textColor: "#ffffff"
-  bgColor: "#FF2D2F"
-  bgOpacity: "1" # 0~1
-
 # header
 header:
   logoSize: 80
