@@ -67,8 +67,8 @@ sections:
     showOtherBtn: true
     btn1Text: "查看菜單與訂餐" # default: order online
     btn1Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34" # default: order online
-    btn2Text: "餐桌預訂" # default: table reservation
-    btn2Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34&reservation=true&client_is_mobile=true" # default: table reservation
+    btn2Text: "" # default: table reservation
+    btn2Href: "" # default: table reservation
 
     bannerImg: "crabby_crabby_newark_dish.webp"
     imgAlt: "Crabby Crabby Newark "
@@ -157,7 +157,7 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title:
-      - "圖片展示"
+      - "菜品展示"
     titleColor: "#000000"
     description:
       - "這裡是品嚐美味海鮮的最佳去處。"

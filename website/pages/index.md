@@ -71,8 +71,8 @@ sections:
     showOtherBtn: true
     btn1Text: "See MENU & Order" # default: order online
     btn1Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34" # default: order online
-    btn2Text: "Table Reservation" # default: table reservation
-    btn2Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=c14b3f12-00e9-43ef-aef3-9716b42c8c34&reservation=true&client_is_mobile=true" # default: table reservation
+    btn2Text: "" # default: table reservation
+    btn2Href: "" # default: table reservation
 
     bannerImg: "crabby_crabby_newark_dish.webp"
     imgAlt: "Crabby Crabby Newark "
