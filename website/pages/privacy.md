@@ -50,7 +50,7 @@ header:
 
 sections:
   # hero
-  - type: "accessibility"
+  - type: "privacy"
 
 footer:
   mode: 1 # 1
